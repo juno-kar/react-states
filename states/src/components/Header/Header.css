@@ -1,0 +1,10 @@
+.header {
+    color: #e7a637;
+    text-align: center;
+    padding: 15px;
+    font-size: 45px;
+    font-family: 'Prompt Bold';
+    background: #323030;    
+    animation: appear 1s ease-in;
+    
+}
