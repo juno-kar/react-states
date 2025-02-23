@@ -2,7 +2,7 @@ import React from "react";
 import "./Main.css";
 import UserForm from '../UserForm/UserForm';
 
-const Main = ({form}) => {
+function Main() {
     return (
         <main className="main" > 
             <UserForm />
